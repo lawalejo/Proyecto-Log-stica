@@ -30,7 +30,7 @@ El proyecto se divide en dos fases principales:
 - Utilización de Github para el desarrollo colaborativo y la gestión de versiones del código.
 
 ### Archivos Subidos:
-- `BenavidesBolañosSaltos Avance 2.ipynb`: Notebook de Jupyter correspondiente al segundo avance del proyecto.
+- `BenavidesBolañosSaltos Avance 2.ipynb`: Notebook de Jupyter correspondiente al s proyecto.
 
 ### Repositorio en GitHub:
 - [Enlace al Repositorio](https://github.com/lawalejo/Proyecto-Log-stica/tree/main?tab=readme-ov-file)
