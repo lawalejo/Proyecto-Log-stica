@@ -28,3 +28,9 @@ El proyecto se divide en dos fases principales:
 - Evaluación de modelos utilizando métricas pertinentes.
 - Cálculo del costo de implementación del modelo en un entorno hospitalario.
 - Utilización de Github para el desarrollo colaborativo y la gestión de versiones del código.
+
+### Archivos Subidos:
+- `BenavidesBolañosSaltos Avance 2.ipynb`: Notebook de Jupyter correspondiente al segundo avance del proyecto.
+
+### Repositorio en GitHub:
+- [Enlace al Repositorio](URL_DEL_REPOSITORIO)
