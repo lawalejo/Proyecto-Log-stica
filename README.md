@@ -33,4 +33,4 @@ El proyecto se divide en dos fases principales:
 - `BenavidesBolañosSaltos Avance 2.ipynb`: Notebook de Jupyter correspondiente al segundo avance del proyecto.
 
 ### Repositorio en GitHub:
-- [Enlace al Repositorio](URL_DEL_REPOSITORIO)
+- [Enlace al Repositorio](https://github.com/lawalejo/Proyecto-Log-stica/tree/main?tab=readme-ov-file)
